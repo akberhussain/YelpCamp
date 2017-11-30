@@ -1,0 +1,15 @@
+.thumbnail img{
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+    padding-bottom: 7px;
+}
+
+.thumbnail .caption-full{
+    padding: 9px;
+}
+#dform{
+    display: inline;
+}
